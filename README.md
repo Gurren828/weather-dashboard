@@ -1,17 +1,26 @@
 # weather-dashboard
-An application designed for travlers to see thje weather in multiple cities
+An application designed for travelers to see the weather in multiple cities
 
 ## About
-I am in the process of building this ap. feel free to come back soon when i have something usefull availible.
+I am in the process of building this ap. feel free to come back soon when i have something useful available.
 
 ## Task list
 
 ### Phase 1
 
 - Dump json for current weather for san diego
+    - City name
+    - Date
+    - Icon
+    - Temperature
+    - Humidity
+    - Wind speed
+    - UV index (not in current weather)
 - Dump jason data for uv index for san diego
-- Dump json data for five day forcast.
-- Log url for weather icons to console log urls for 5 day forcast
+- Dump json data for five day forecast.
+- Log url for weather icons to console 
+    https://openweathermap.org/weather-conditions
+- log urls for 5 day forecast
 
 ### Phase 2: layout and static html
 
